@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e1",
+    "title": "Groceries",
+    "amount": 115,
+    "date": "2022/1/1"
+  },
+  {
+    "id": "e2",
+    "title": "Culvers",
+    "amount": 36,
+    "date": "2022/1/2"
+  },
+  {
+    "id": "e3",
+    "title": "Costco",
+    "amount": 100,
+    "date": "2022/1/1"
+  },
+  {
+    "id": "e4",
+    "title": "Subway",
+    "amount": 6,
+    "date": "2022/1/5"
+  }
+]
